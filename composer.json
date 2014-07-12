@@ -1,0 +1,13 @@
+{
+    "name": "dominik.znidar/restest",
+    "description": "REST application test",
+    "authors": [
+        {
+            "name": "Dominik Znidar",
+            "email": "dominik.znidar@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
